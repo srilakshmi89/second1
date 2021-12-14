@@ -1,0 +1,2 @@
+this is scripting file
+git clone url [github ssh url]
