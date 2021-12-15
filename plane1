@@ -11,4 +11,6 @@ git merge planning ,
 git push origin main
 git branch
 git brach -d planning
-
+ 
+ next delite the other branch
+ git branch -d planning
