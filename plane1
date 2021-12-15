@@ -1,0 +1,7 @@
+this is about merge branch
+git branch planning
+vi plan1
+git push -u origin planning
+git add .
+git commit -m "add branch" -a
+
