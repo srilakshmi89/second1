@@ -11,6 +11,12 @@ git merge planning ,
 git push origin main
 git branch
 git brach -d planning
+<<<<<<< HEAD
 
 do you want to creat new branch
 git branch <branch name>
+=======
+ 
+ next delite the other branch
+ git branch -d planning
+>>>>>>> fae87055cc7298ec532b79a430a55a8f290af641
