@@ -12,3 +12,5 @@ git push origin main
 git branch
 git brach -d planning
 
+do you want to creat new branch
+git branch <branch name>
