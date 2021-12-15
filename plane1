@@ -4,4 +4,5 @@ vi plan1
 git push -u origin planning
 git add .
 git commit -m "add branch" -a
-
+git push origin planning
+git checkout main
