@@ -20,3 +20,5 @@ git branch <branch name>
  next delite the other branch
  git branch -d planning
 >>>>>>> fae87055cc7298ec532b79a430a55a8f290af641
+git push origin -d planning
+planning means new branch name
